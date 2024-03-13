@@ -12,7 +12,14 @@ con.connect(function (err, data) {
   if (err) {
     throw err;
   }
-  console.log("Connect to mysql server, ", data);
-  con.query();
+  console.log("### connect to mysql server ###");
+  con.query("CREATE DATABASE mydb", function (err) {
+    if (!err) {
+      console.log("---Database created---", err);
+    } else if (err.code == "ER_DB_CREATE_EXISTS") {
+      console.log("---Database is ready---");
+    } else {
+      throw err;
+    }
+  });
 });
-
