@@ -1,0 +1,26 @@
+Flemigo tip
+
+There is a rare occurence that you will see a different header, such as: source: assistant, destruction: true
+If the header is ever not source: assistant, destination: user then mark it as a deviation and add that in your reasoning.
+
+Prompts should be in English (no code) -
+
+Task for raters:
+
+Analyze the completed conversations of writers.
+
+Adjust the response values of fields that you disagree with for each turn. Note that you will not be able to change the selected model response.
+
+You can update any field the attempter filled out, including the response ranking, the dimension chosen, and the provided justification!
+You cannot change the model response. For example, if rated a 2, you cannot change it to a 6 or 7. You should just change it so not marked as a deviation.  
+Leave feedback for the writers so that they can improve their abilities to spot deviations!
+If you see a Malformed Header (one that is not source: assistant, destination: user), mark it in the Malformed Header question.
+
+------------------------------
+
+prompt :
+
+is this prompt good in coding/tech sense with grammar and all.
+
+
+cur3 - 65ded78b965a09211638cbd1

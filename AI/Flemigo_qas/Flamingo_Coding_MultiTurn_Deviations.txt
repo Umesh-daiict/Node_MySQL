@@ -1,0 +1,6 @@
+Flamingo Coding MultiTurn Deviations
+Python, Java, JavaScript, TypeScript!
+
+tips : 
+5 turns
+have Deviations -> 1,2,7,8 rating in atleast one area

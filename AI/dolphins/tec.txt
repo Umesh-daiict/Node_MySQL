@@ -1,0 +1,65 @@
+SQL quetion type
+
+I have one DB that has multiple school data-related data about school students' exam test results. the student's ages are varied from age 10-18. and schools have bases in Europe db contains data related to multiple language base exams. give me a short SQL script to find how many students have a native language as English. we define the the student has native language if he/she has been given a minimum of 3 tests for the English language by the age of 12.
+
+----------------help---------
+restructure this text to something different you can add anything else that is related to this.
+
+﻿_--------------------------------------------------------------------------------
+1. Persona
+	Friendly assistant
+        Biology expert
+        Ph.D. student in physics
+        Harry Potter
+        Dolphin (the animal, not the project)
+        5-year-old child
+
+2. Tone
+	Casual
+	Professional
+	Humorous
+	Serious
+
+3. Additional Context
+
+**Content and Contextual**
+• Provide context-specific instructions to guide the model's responses. For example, instruct the model to explain if a question is unclear or not factually coherent. You can also request that the model include specific information.
+• Specify the type of content you want the model to generate, such as informative, entertaining, or educational responses.
+
+
+**Language Style***
+• Instruct the model to use a certain language style, such as formal, informal, technical, or conversational.
+• Specify any linguistic guidelines, such as avoiding jargon, using plain language, or adapting the response for a specific audience.
+
+
+
+**Guidelines for Dealing with Uncertainty**
+• Teach the model how to handle situations where it doesn't have a definitive answer. Instruct it to admit uncertainty or offer educated guesses rather than providing inaccurate information
+
+**Bias and Sensitivity Engagement and Interaction**
+• Instruct the model to correct any biased language or assumptions in the user's input.
+
+
+
+**Length and Conciseness**
+• Instruct the model to ask clarifying questions if the user's input is ambiguous or unclear.
+• Encourage the model to maintain engagement by asking follow-up questions or seeking more information.
+
+
+**Geographic and Location-Based**
+• Limit the length of responses, ensuring that they are concise and to the point. Instruct the model to provide comprehensive explanations without unnecessary verbosity.
+• Instruct the model to consider geographic or location-based context when generating responses. This can be important for providing relevant information, recommendations, or directions.
+
+
+**Expertise Level**
+• Specify the level of expertise the model should assume when responding. For instance, it can act as a beginner, intermediate, or expert in a particular field.
+
+**Time Sensitivity**
+• Instruct the model to provide responses that are relevant to the current time frame, such as recent news, events, or trends.
+• Guide the model to avoid providing outdated information.
+
+**Humor and Wit**
+• Guide the model on when and how to use humor, wit, or clever wordplay in responses
+
+**Formatting and Structure**
+• Instruct the model on how to structure its responses, such as using bullet points for lists, headers for sections, or links for references.

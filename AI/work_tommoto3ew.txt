@@ -1,0 +1,56 @@
+65e24adb5140ce13ab5cf4f0
+
+Building a simple demo app similar to Facebook or Twitter to prioritize users' content based on engagement. For a tester's feed with various posts, give me an API that I can use to implement sort posts by the frequency of likes and comments. For this use case, we want an API that can do it in Python. 
+----------------
+How can a non-technical person ensure the security of a Django website with multi-role authentication? what tools are available to assess the website's security against common threats? Additionally, how can one address security vulnerabilities discovered through these tools effectively? So that I can ensure that my website has robust protections.
+
+++++++++++++++++++++++++++++++
+for the given question: Sort Characters By Frequency, use this question as a basis to ask Python interview programming questions in a practical application use case in 50 words. where the interviewee does not relate to base questions. ask that question. what will be problem be asked in 50 words that look like a real work use case, not a generic programming task?
+
+1.
+Sort Characters By Frequency
+
+2.
+In a directory structure representing files and folders, determine the number of pseudo-palindromic paths. A pseudo-palindromic path is defined as a path in which the frequency of each character occurs even number of times, except for at most one character that can occur an odd number of times.
+
+Context:
+In a real-life scenario, consider a directory structure of a computer system containing various files and folders. Each file and folder is represented by a node in a tree-like structure. Users navigate through this directory structure to access files or directories for various tasks, such as organizing data, managing projects, or conducting research.
+
+However, some users are interested in analyzing the directory structure itself rather than the contents of the files. They want to understand the patterns and characteristics of the directory paths, particularly focusing on pseudo-palindromic paths. These paths have significance in understanding the organization and accessibility of files and directories within the system.
+
+For example, suppose we have a directory structure like this:
+
+----------------------+++++kk+++++++++++++_-------------------------
+For given prompt  select which response is better in terms of  Reasoning Quality
+Style & Formatting
+Functionality & Performance
+Relevance & Completeness
+Trust & Safety
+Security
+------
+
+Please rank the two responses
+Rank the two responses on a 1-8 scale
+
+Response 1 is Much Better than Response 2
+Response 1 is Better than Response 2
+Response 1 is Slightly Better than Response 2
+Response 1 is Hardly Better than Response 2
+Response 2 is Hardly Better than Response 1
+Response 2 is Slightly Better than Response 1
+Response 2 is Better than Response 1
+Response 2 is Much Better than Response 
+-------------
+how to set up rest/ reactive function in firestore/aws/azure.
+function/emulators/
+
+how to impreve code setup of firebase project in -- rimrag
+----------
+eslist
+folder structure
+
+dane@filledstacks.com
+
+
+webRTC- confirming app Build a Video Chat app from Scratch
+https://colab.research.google.com/github/ryanorsinger/101-exercises/blob/main/101-exercises.ipynb

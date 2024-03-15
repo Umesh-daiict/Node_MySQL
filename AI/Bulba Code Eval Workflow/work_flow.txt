@@ -1,0 +1,43 @@
+Choosing Between Two Responses
+Check Response A code and facts for correctness.
+Check Response B code and facts for correctness.
+Be sure to run the code!!
+
+
+
+Response A: correct
+Response B: correct
+Action: see Step 3
+Response A: correct
+Response B: incorrect
+Action: choose Response A
+Response A: incorrect
+Response B: correct
+Action: choose Response B
+Response A: incorrect
+Response B: incorrect
+Action: see Step 3
+
+
+
+
+Step 3: Choose the more concise response between the two. This means you must choose the one that is shorter, when they are both incorrect or they are both correct.
+
+Please keep this workflow in mind as you complete Code Eval Tasks! This will help you succeed!
+
+
+
+----------------------------------------
+
+- The response should implement a function.
+- The code should be written in C++.
+- The Response should be concise.
+
+------------------------------------------------
+for given prompt, is response follow this.
+1.Explain the instruction issues you found. * (Focus on whether the response reflects the instructions and goals of the prompt, not on truthfulness or correctness issues (e.g., bad code, poor explanation) – those are rated below.)
+2.Explain the errors issues you found. * ( Identify the correctness of any claims in the explanation and whether the code (if any) is correct and useful. Please take up to 15 minutes to research information across both responses as needed.)
+3.Explain the writing issues you found. * (Identify whether the answer uses high-quality prose that’s well-organized and easy to read, and whether the included code, if any, is reasonably formatted and includes sufficient and accurate documentation.)
+4.Explain the verbosity issues you found. * (Note that this scale goes from “too verbose” to “too short”; the best score here is in the middle!)
+5.Explain the safety issues you found. * (Identify if the response is safe for any user.)
+

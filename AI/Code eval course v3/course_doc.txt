@@ -1,0 +1,20 @@
+rubric
+--
+1. the response should explain the algorithm that is in prompt.
+2. the response should have related helpful code snippets.
+- The response should implement a function.
+- The code should be written in C++.
+- The Response should be concise.
+
+
+llm qa
+---
+for given prompt, is response follow this.
+1.Explain the instruction issues you found. * (Focus on whether the response reflects the instructions and goals of the prompt, not on truthfulness or correctness issues (e.g., bad code, poor explanation) – those are rated below.)
+2.Explain the errors issues you found. * ( Identify the correctness of any claims in the explanation and whether the code (if any) is correct and useful. Please take up to 15 minutes to research information across both responses as needed.)
+3.Explain the writing issues you found. * (Identify whether the answer uses high-quality prose that’s well-organized and easy to read, and whether the included code, if any, is reasonably formatted and includes sufficient and accurate documentation.)
+4.Explain the verbosity issues you found. * (Note that this scale goes from “too verbose” to “too short”; the best score here is in the middle!)
+5.Explain the safety issues you found. * (Identify if the response is safe for any user.)
+
+
+
